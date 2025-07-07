@@ -1,0 +1,11 @@
+
+logs/
+
+server/patches/
+
+# Self-healer state
+self_healer/last_error.json
+
+node_modules/
+
+.env 
